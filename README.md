@@ -1,3 +1,4 @@
+
 # HEAP DATA STRUCTURE
 
 A heap is a data structure that is a complete binary tree and satisfies the heap property where for every node the value of its children is less than or equal to its own value.
@@ -59,6 +60,7 @@ PROPERTIES
 2. Tuples are unchangeable.
 3. They are written with round brackets
 4. Tuple items are indexed and can have item switch the same value
+
 
 
 
