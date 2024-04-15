@@ -38,3 +38,27 @@ DELETION
 2. Delete the last element from the heap .
 3. Check if the now placed element follows the heap property  if so leave it if not heapify the last node placed at the position of root.
 
+#TUPLE DATA STRUCTURE
+WHAT IS A TUPLE
+ A tuple is an ordered sequence of values whose values can be repeated but their number is always finite
+
+Advantages
+1. Allows you to output the whole tuple
+2. Allows you to output a specific elements
+3. Allows you find an item using index function
+4. Allows you calculate the length of your tuple
+
+Disadvantages
+1. You can’t add an element but in a list you can
+2. You can’t sort a tuple but in a list you can
+3. You can’t delete an element but you can in a list
+4. You can’t replace an element but you can in a list
+
+PROPERTIES
+1. A tuple is a collection which is ordered which means that they have a order and that order cannot change
+2. Tuples are unchangeable.
+3. They are written with round brackets
+4. Tuple items are indexed and can have item switch the same value
+
+
+
