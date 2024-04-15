@@ -9,3 +9,6 @@ print (heapq.heappop(li))
 
 heapq.heappush(li, 6)
 print(li)
+
+largeElement = heapq.nlargest(1,li)[0]
+print(largeElement)
